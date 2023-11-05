@@ -1,5 +1,5 @@
 # Angular Todo List
-
+The app is live on https://angular-projects-ten.vercel.app/
 ![Screenshot](screenshot.png)
 
 A simple Todo List application built with Angular.
