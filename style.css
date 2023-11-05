@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: palegoldenrod;
+    font-size: 35px;
+    font-family: monospace;
+}
+.addItem {
+    padding: 20px;
+}
+.main{
+    position: relative;
+    bottom: -60px;
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 20px;
+    list-style-type: none;
+}
+.round-button{
+    background-color: #3498db; /* Set the button's background color */
+    color: #fff; /* Set the text color */
+    border: none; /* Remove the default button border */
+    border-radius: 50%; /* Make the button circular by setting border-radius to 50% */
+    width: 30px; /* Set the button's width */
+    height: 30px; /* Set the button's height (same as width to make it a perfect circle) */
+    font-size: 18px; /* Set the font size */
+    cursor: pointer; 
+}
